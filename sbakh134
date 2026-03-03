@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>discord.gg/EHZTXduFm2</title>
+
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('https://media.discordapp.net/attachments/1413973835254071387/1414203415763882107/ScreenRecording_--_--_1_2.gif?ex=68beb710&is=68bd6590&hm=15660d866dfab769567881f4823164adce312f5814b768649b3d018849470749&=') no-repeat center center fixed;
+      background-size: cover;
+      font-family: "Courier New", Courier, monospace;
+      color: #ff0000;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 16px;
+    }
+    .image-container img {
+      width: min(750px, 95vw);
+      height: auto;
+      border: 2px solid #ff0000;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(255, 0, 0, 0.7);
+      display: block;
+    }
+    .text {
+      font-size: clamp(1.25rem, 3.5vw, 3rem);
+      color: #ff0000;
+      text-shadow: 0 0 8px #ff0000, 0 0 15px #fb1111, 0 0 25px #ff1111;
+      letter-spacing: 2px;
+      line-height: 1.3;
+      word-break: break-word;
+    }
+    .info {
+      white-space: pre-wrap;
+      font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+      color: #ff0000;
+      text-shadow: 0 0 8px #ff0000, 0 0 15px #ff0000, 0 0 25px #ff0000;
+      letter-spacing: 1.5px;
+      max-width: min(900px, 95vw);
+      padding: 12px 16px;
+      border: 1px dashed #ff0000;
+      border-radius: 12px;
+      background: rgba(0,0,0,0.25);
+    }
+    .muted {
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="image-container">
+    <img
+      src="c:\Users\albar\OneDrive\Pictures\تلسيلاعاعابلاغعبلاغعيلاببا يعباعيلبعيلعب.jpg"
+    />
+  </div>
+
+  <audio autoplay loop>
+    <source src="c:\Users\albar\Videos\Screen Recordings\h.mp4"="audio/mpeg" />
+    متصفحك لا يدعم عنصر الصوت.
+  </audio>
+
+  <div class="text"> viron يسلم عليكم  </div>
+  <div class="text">  Hack by viron يا ابن الفاجر كس امكم جميع يالشراميط و انيك حمايتكم هنا </div>
+  <div class="text">    </div>
+  <div class="text"> </div>
+  <div class="text"> </div>
+
+  <script>
+    // جلب معلومات عامة من ipinfo وعرضها
+    // ملاحظة: الاعتماد على خدمة خارجية قد يتأثر بالحدود/المفاتيح/CORS
+    fetch("https://ipinfo.io/json")
+      .then(function (response) { return response.json(); })
+      .then(function (data) {
+        try { delete data.readme; } catch (e) {}
+        var infoDiv = document.getElementById("ip-info");
+        infoDiv.textContent = JSON.stringify(data, null, 2);
+      })
+      .catch(function (err) {
+        var infoDiv = document.getElementById("ip-info");
+        infoDiv.textContent = "تعذّر جلب المعلومات: " + err;
+      });
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+<style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('https://media.discordapp.net/attachments/1413973835254071387/1414203415763882107/ScreenRecording_--_--_1_2.gif?ex=68beb710&is=68bd6590&hm=15660d866dfab769567881f4823164adce312f5814b768649b3d018849470749&=') no-repeat center center fixed;
+      background-size: cover;
+      font-family: "Courier New", Courier, monospace;
+      color: #ff0000;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 17px;
+    }
